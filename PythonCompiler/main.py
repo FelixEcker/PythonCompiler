@@ -20,7 +20,7 @@ from colorama import *
 
 os.system("clear")
 
-print ("Felix's Python Compiler 0.1.0, (C) 2018")
+print ("Felix's Python Compiler 0.2.0, (C) 2018")
 print()
 
 # Command Input Funktion
