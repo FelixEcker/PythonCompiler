@@ -44,7 +44,7 @@ def CompileProject():
                         fileNumber = int(fileNumber)
                 timerEnd = timer()
                 Time = str(timerStart - timerEnd) + " seconds"
-                logging.info("Kompileren Abgeschlossen! Time taken: "+Time)
+                logging.info("Kompilieren Abgeschlossen! Time taken: "+Time)
                 print (Fore.GREEN + "Projekt wurde Erfolgreich Kompiliert! Time taken: "+ Time + Fore.RESET)
             else:
                 print (Fore.RED+"Projektordner konnte nicht gefunden werden!" + Fore.RESET)
