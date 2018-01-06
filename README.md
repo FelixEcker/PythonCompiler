@@ -1,7 +1,7 @@
 # PythonCompiler
 A python compiler made by Felix Eckert
 
-Language: German
+Language: German, English
 
 python version: 3.6 or Newer
 
